@@ -3,7 +3,7 @@ package org.superbiz.moviefun;
 import org.junit.Test;
 
 import static org.hamcrest.core.IsEqual.equalTo;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 
 public class ServiceCredentialsTest {
     @Test
